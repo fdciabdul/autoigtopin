@@ -1,4 +1,7 @@
-
+# DESIGN BY Abdul Muttaqin
+# Library : 
+# seregazhuk / php-pinterest-bot 
+# raiym / instagram-php-scraper
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -100,5 +103,6 @@
 
 			</div>
 		</div>
+
 	</body>
 </html>
